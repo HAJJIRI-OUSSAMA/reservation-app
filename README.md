@@ -185,7 +185,6 @@ Les contributions sont les bienvenues ! Si vous souhaitez ajouter des fonctionna
 
 ---
 
-## 📝 Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
@@ -193,7 +192,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 📧 Contact
 
-Pour toute question, contactez-moi via [votre-email@example.com](mailto:votre-email@example.com).
+Pour toute question, contactez-moi via [hajjirioussama111@gmail.com](mailto:votre-email@example.com).
 
 ---
 
